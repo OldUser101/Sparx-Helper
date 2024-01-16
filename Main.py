@@ -88,7 +88,7 @@ def search():
     if (SearchBox.get() == ''):
         pass
     else:
-        searchfile = SearchBox.get()+".png"
+        searchfile = str(SearchBox.get()).upper()+".png"
         for i in os.listdir(folder):
             if (i == searchfile):
                 #img = Image.open(folder+i)
