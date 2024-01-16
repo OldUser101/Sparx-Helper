@@ -20,11 +20,11 @@ Later you can search for that question number and get the screenshot.
 3. Next press extract.
 
 ## HOW TO USE:
-1. Next double clicked "Sparx Helper.exe" (its in the folder that you extracted) and wait untill you see a window that looks like this picture (if it says "Windows protected your pc" press "run anyway")
+1. Next double-click "Sparx Helper.exe" (in the folder that you extracted) and wait until you see a window that looks like this picture (if it says "Windows protected your PC" press "More Info" and "Run Anyway")
  
 ![App Screenshot](https://github.com/sKrible45/Sparx-Helper/blob/main/images/TheWindow.png)
  
-2. click the empty box and select the browser that you have. (eather Chrome ot Firefox if you dont have eather then you should install them.)
-2. to open sparx press the button named "open browser"
-3. if sparx asks you for a bookwork check click the box outlie and type the bookwork code e.g."1A"(the "A" needs to be a capital) then click find.
+2. Click the empty box and select the browser that you have. (either Chrome ot Firefox if you dont have either then you should install them.)
+2. To open Sparx press the button named "Open Browser".
+3. If Sparx asks you for a bookwork check, type the bookwork code e.g."1A", then click "Find".
 
