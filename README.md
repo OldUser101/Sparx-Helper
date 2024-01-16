@@ -1,5 +1,5 @@
 # Sparx-Helper V1.3
-a program to screenshot and save the answers from sparx
+A program to screenshot and save the answers from Sparx.
 
 
 ![App Screenshot](https://github.com/sKrible45/Sparx-Helper/blob/main/images/TheWindow.png)
@@ -7,7 +7,7 @@ a program to screenshot and save the answers from sparx
 
 
 ## What it does:
-It takes a screenshot every time you answer a question in sparx.
+It takes a screenshot every time you answer a question in Sparx.
 Later you can search for that question number and get the screenshot.
 
 
